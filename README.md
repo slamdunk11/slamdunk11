@@ -17,11 +17,7 @@ Here are some ideas to get you started:
 <div align="center">
   
 ## Hi, I'm AhYoung😊👋
-  
-</br>
-  
-  <img src="https://images.hive.blog/0x0/https://cdn.steemitimages.com/DQmTJ2ZYYfg2yfDBrHo9KNWN76QXbp9mpZ9qQu5cee2Hbgr/gmfgmf.gif"/>
-  
+ 
 </br>
 
 ### 🛠 Teck Stack 🛠
@@ -40,5 +36,6 @@ Here are some ideas to get you started:
 
 </br>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
