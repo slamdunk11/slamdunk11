@@ -16,14 +16,12 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-# Hi, I'm AhYoung😊👋
+## Hi, I'm AhYoung😊👋
   
-</br>
 </br>
   
   <img src="https://images.hive.blog/0x0/https://cdn.steemitimages.com/DQmTJ2ZYYfg2yfDBrHo9KNWN76QXbp9mpZ9qQu5cee2Hbgr/gmfgmf.gif"/>
   
-</br>
 </br>
 
 ### 🛠 Teck Stack
@@ -36,12 +34,10 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>
 
-</br>
 
 ### 😀 Me 
 <a href="https://velog.io/@slamdunk11" target="_blank"><img src="https://img.shields.io/badge/Velog-20c997?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
-</br>
 </br>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
